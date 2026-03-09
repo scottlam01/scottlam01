@@ -1,6 +1,6 @@
 # Hi I'm Scott
 
-## Data Analytics
+## Interests
 - Exploratory Data Analysis (EDA)
 - Game Development
 
