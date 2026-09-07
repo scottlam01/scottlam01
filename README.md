@@ -1,30 +1,22 @@
 # Hi I'm Scott
+<p align="center">
+  <img width="400" alt="Professional Photo_edit" src="https://github.com/user-attachments/assets/43343379-edd8-4f89-89c3-ae4df36e3a62" />
+</p>
 
 ## Interests
-- Exploratory Data Analysis (EDA)
-- Game Development
+- Web Development — Building interactive applications with React and TypeScript
+- Data Science — Exploring datasets, identifying trends, and applying machine learning
+- Software Engineering — Designing applications, APIs, and backend systems
+- Data Visualization — Turning complex datasets into clear, interactive visualizations
+- Game Development — Developing game systems and interactive multiplayer experiences
 
 ## Currently building:
-- Job Market Analytics Platform
+- Currently building EagleView, a career intelligence platform that uses job market, salary, demand, and cost-of-living data to help users compare career opportunities across locations.
 
 ## Tech:
-- Python | SQL | PostgreSQL | Pandas
+- Languages: Python, Java, C++, JavaScript, TypeScript, SQL, HTML, CSS
+- Frameworks & Libraries: React, Spring Boot, Node.js, FastAPI, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Tools: Git, Linux, Postman, REST APIs
 
 ## Open to Collaboration:
 - Email: scottlam2001@gmail.com
-- LinkedIn: 
-
-<!--
-**scottlam01/scottlam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
