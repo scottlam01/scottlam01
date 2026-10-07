@@ -16,7 +16,7 @@
       I'm a Computer Science graduate interested in building solutions that people actually need.  My interests are in building full-stack applications, working with data, and designing useful interactive experiences.  I   enjoy solving real problems and making information easier to understand.
     </p>
     <p>
-      <a href="www.linkedin.com/in/scott-lam-28b99a3b0">LinkedIn</a> ·
+      <a href="https://www.linkedin.com/in/scott-lam-28b99a3b0">LinkedIn</a> ·
       <a href="mailto:scottlam2001@gmail.com">Email</a>
     </p>
   </td>
