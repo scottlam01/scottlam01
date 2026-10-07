@@ -1,22 +1,59 @@
-# Hi I'm Scott
-<p align="center">
-  <img width="400" alt="Professional Photo_edit" src="https://github.com/user-attachments/assets/43343379-edd8-4f89-89c3-ae4df36e3a62" />
-</p>
+<div align="center">
+  <h1>Hi I'm Scott</h1>
+</div>
 
-## Interests
-- Web Development — Building interactive applications with React and TypeScript
-- Data Science — Exploring datasets, identifying trends, and applying machine learning
-- Software Engineering — Designing applications, APIs, and backend systems
-- Data Visualization — Turning complex datasets into clear, interactive visualizations
-- Game Development — Developing game systems and interactive multiplayer experiences
 
-## Currently building:
-- Currently building EagleView, a career intelligence platform that uses job market, salary, demand, and cost-of-living data to help users compare career opportunities across locations.
 
-## Tech:
-- Languages: Python, Java, C++, JavaScript, TypeScript, SQL, HTML, CSS
-- Frameworks & Libraries: React, Spring Boot, Node.js, FastAPI, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- Tools: Git, Linux, Postman, REST APIs
+<table style="border:none !important;">
+<tr>
+  <td width="50%" align="center" style="border:none !important;">
+    <img width="400" alt="Professional Photo_edit" src="https://github.com/user-attachments/assets/43343379-edd8-4f89-89c3-ae4df36e3a62" />
+  </td>
+  
+  <td width="50%" align="left" style="border:none !important;">
+    <h3>Building useful things with code.</h3>
+    <p>
+      I'm a Computer Science graduate interested in building solutions that people actually need.  My interests are in building full-stack applications, working with data, and designing useful interactive experiences.  I   enjoy solving real problems and making information easier to understand.
+    </p>
+    <p>
+      <a href="www.linkedin.com/in/scott-lam-28b99a3b0">LinkedIn</a> ·
+      <a href="mailto:scottlam2001@gmail.com">Email</a>
+    </p>
+  </td>
+</tr>
+</table>
 
-## Open to Collaboration:
-- Email: scottlam2001@gmail.com
+
+## Featured Projects
+### EagleView
+EagleView was built around a simple idea: career decisions should be easier to make with useful information. It combines job demand, salary, and cost-of-living data into an interactive experience that helps users compare where their skills may have the most opportunity.
+
+[View on GitHub](https://github.com/scottlam01/EagleView)
+
+### Cores
+Cores is a real-time multiplayer card game designed to make the core experience of traditional trading card games more approachable and easier to play.
+
+[View on GitHub](https://github.com/scottlam01/Cores)
+
+### Predicting the Next Big Game
+Predicting the Next Big Game is a data science project that explores which game features are most associated with success on Steam. Using game reviews, critic scores, gameplay features, and other data, we built a predictive model to identify factors associated with higher revenue and user ratings.
+
+[View on GitHub](https://github.com/scottlam01/Predicting-the-Next-Big-Game)
+
+
+## Tech Stack
+
+**Languages**  
+Python, Java, C++, JavaScript, TypeScript, SQL, HTML, CSS
+
+**Frameworks & Libraries**  
+React, Spring Boot, Node.js, FastAPI, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+
+**Databases & Data**  
+PostgreSQL, MySQL, MongoDB
+
+**Cloud & DevOps**  
+AWS, Docker, Kubernetes, GitHub Actions, CI/CD, Linux
+
+**Development & APIs**  
+Git, GitHub, Postman, REST APIs
