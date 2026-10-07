@@ -7,11 +7,11 @@
 <table style="border:none !important;">
 <tr>
   <td width="50%" align="center" style="border:none !important;">
-    <img width="400" alt="Professional Photo_edit" src="https://github.com/user-attachments/assets/43343379-edd8-4f89-89c3-ae4df36e3a62" />
+    <img src="avi-ascii.svg" width="500" alt="Animated ASCII portrait">
   </td>
   
   <td width="50%" align="left" style="border:none !important;">
-    <h3>Building useful things with code.</h3>
+    <h3>Building useful solutions with code.</h3>
     <p>
       I'm a Computer Science graduate interested in building solutions that people actually need.  My interests are in building full-stack applications, working with data, and designing useful interactive experiences.  I   enjoy solving real problems and making information easier to understand.
     </p>
@@ -30,16 +30,27 @@ EagleView was built around a simple idea: career decisions should be easier to m
 
 [View on GitHub](https://github.com/scottlam01/EagleView)
 
+<a href="https://github.com/scottlam01/EagleView">
+  <img src="eagleview.PNG" width="600" alt="EagleView Image">
+</a>
+
 ### Cores
 Cores is a real-time multiplayer card game designed to make the core experience of traditional trading card games more approachable and easier to play.
 
 [View on GitHub](https://github.com/scottlam01/Cores)
+
+<a href="https://github.com/scottlam01/Cores">
+  <img src="cores.png" width="600" alt="Cores Image">
+</a>
 
 ### Predicting the Next Big Game
 Predicting the Next Big Game is a data science project that explores which game features are most associated with success on Steam. Using game reviews, critic scores, gameplay features, and other data, we built a predictive model to identify factors associated with higher revenue and user ratings.
 
 [View on GitHub](https://github.com/scottlam01/Predicting-the-Next-Big-Game)
 
+<a href="https://github.com/scottlam01/Predicting-the-Next-Big-Game">
+  <img src="predicting_the_next_big_game.png" width="400" alt="Predicting the Next Big Game Image">
+</a>
 
 ## Tech Stack
 
